@@ -19,9 +19,8 @@ Included in this repository
 5. Raw - Base data for NSE downloaded 
 6. train.csv - Training data set
 7. test.csv - Testing data set
-8. Proposal.pdf - Proposal for the project
-9. Report.pdf - Project report
-10. README.md - This file.
+8. DS Capstone project.pdf - Project report
+9. README.md - This file.
 
 Please note , project uses sagemaker env.
 
